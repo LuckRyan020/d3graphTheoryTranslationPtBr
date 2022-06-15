@@ -11,7 +11,7 @@ var contentData = // jshint ignore:line
 
     "interface-content": "<ul> <li>Para adicionar um vértice dê um <b>clique esquerdo<\/b> no espaço em branco.<\/li><li>Para adicionar uma aresta <b>arraste<\/b> um vértice para o outro.<\/li><li>Para deletar um vértice\/aresta dê um <b>cliquê direito<\/b> nele.<\/li><li> para mover um vértice <b>segure Ctrl e arraste-o<\/b>.<\/li><li>Para ver o nome de um vértice\/aresta apenas <b>passe o mouse<\/b> nele.<\/li><\/ul>",
 
-    "svg-buttons": "<button type=\"button\" id=\"clear-graph\" class=\"btn btn-default\">Clear All</button>",
+    "svg-buttons": "<button type=\"button\" id=\"clear-graph\" class=\"btn btn-default\">Limpar Tudo</button>",
 
     "svg-output": "",
 
@@ -24,15 +24,15 @@ var contentData = // jshint ignore:line
 
   "order-and-size": {
 
-    "content-title": "Order and Size of a Graph",
+    "content-title": "Ordem e Tamanho de um Grafo",
 
-    "theory-content": "<p><b>Order <\/b> of a graph is the number of vertices in the graph.<\/p><p><b>Size <\/b> of a graph is the number of edges in the graph.<\/p><p> Create some graphs of your own and observe its order and size. Do it a few times to get used to the terms. <\/p><p> Now clear the graph and draw some number of vertices (say \\(n\\)). Try to achieve the maximum size with these vertices. Try this for different values of \\(n\\). <\/p><p> Notice something? What's the maximum size possible for a graph of order \\(n\\)? <\/p><div class=\"hint\"> <span class=\"hint-word\">Hint: <\/span>Maximum size is achieved when all the vertices are connected to each other. <\/div><p> The answer is below. No, don't look just yet. Clear the graph and try again a few times. <\/p><div class=\"toggle-container\"> <span class=\"toggle-link target-hidden\">Click to see answer<\/span> <div class=\"toggle-content\"> <p> The answer is \\(\\frac{n(n-1)}{2}\\). <\/p><p> But why? Because the maximum number of edges you can draw is same as the number of ways you can select two vertices. <\/p><p> So let's select the first vertex and call it \\(a\\). We can select \\(a\\) in \\(n\\) ways. To select the other vertex, we're left with \\(n-1\\) vertices. So we can select two vertices in \\(n(n-1)\\) ways, right? <\/p><p> No. That's because we counted twice. What if \\(b\\) was the first selection and \\(a\\) the other one? Got it? Remember that \\(ab\\) and \\(ba\\) represent the same edge. <\/p><p> Hence we divide by \\(2\\) and get \\(\\frac{n(n-1)}{2}\\) as the answer. <\/p><\/div><\/div>",
+    "theory-content": "<p>A <b>ordem <\/b> de um grafo é o número de vértices de que ele possui.<\/p> <p>O <b>tamanho <\/b> de um grafo é o número de arestas que ele possui.<\/p><p> Crie alguns grafos e observe sua ordem e tamanho. Faça isso por um tempo para se acostumar com os termos. <\/p><p> Agora limpe o grafo e insira um determinado número de vértices (digamos \\(n\\)). Tente alcançar o tamanho máximo com esses vértices. Tente isso para diferentes valores de \\(n\\). <\/p><p> Percebeu alguma coisa? Qual é o tamanho máximo possível para um grafo de ordem \\(n\\)? <\/p><div class=\"hint\"> <span class=\"hint-word\">Dica: <\/span> O tamamho máximo é alcançado quando todos os vértices estão conectados uns aos outros. <\/div><p> A resposta está abaixo. Não, não veja ainda. Lime o grapho e tente algumas vezes. <\/p><div class=\"toggle-container\"> <span class=\"toggle-link target-hidden\">Clique para ver a resposta<\/span> <div class=\"toggle-content\"> <p> A resposta é \\(\\frac{n(n-1)}{2}\\). <\/p><p> Mas por quê? Porque o número máximo de arestas que você pode desenhar é o mesmo que o número de maneiras que você pode selecionar dois vértices. <\/p><p> Então vamos slecionar o primeiro vértice e chamá-lo  de \\(a\\). Nós podemos selecionar \\(a\\) de \\(n\\) formas. Para selecionar o outro vértice, ficamos com \\(n-1\\) vertices. Logo, nós podemos selecionar dois vértices de \\(n(n-1)\\) formas, certo? <\/p><p> Não, pois contamos duas vezes. E se \\(b\\) fosse a primeira seleção e \\(a\\) a outra? Entendeu? Lembre que \\(ab\\) e \\(ba\\) representam a mesma aresta. <\/p><p> Por isso, nós dividimos por \\(2\\) e obtemos \\(\\frac{n(n-1)}{2}\\) como a resposta. <\/p><\/div><\/div>",
 
-    "interface-title": "App interface:",
+    "interface-title": "Interface do Aplicativo:",
 
-    "interface-content": "<ul> <li>To add a vertex <b>left click<\/b> on whitespace.<\/li><li>To add an edge <b>drag<\/b> from one vertex to another.<\/li><li>To delete a vertex\/edge <b>right click<\/b> on it.<\/li><li>To move a vertex <b>hold Ctrl and drag<\/b> it.<\/li><li>To see name of a vertex\/edge just <b>hover your cursor<\/b> on it.<\/li><\/ul>",
+    "interface-content": "<ul> <li>Para adicionar um vértice dê um <b>clique esquerdo<\/b> no espaço em branco.<\/li><li>Para adicionar uma aresta <b>arraste<\/b> um vértice para o outro.<\/li><li>Para deletar um vértice\/aresta dê um <b>cliquê direito<\/b> nele.<\/li><li> para mover um vértice <b>segure Ctrl e arraste-o<\/b>.<\/li><li>Para ver o nome de um vértice\/aresta apenas <b>passe o mouse<\/b> nele.<\/li><\/ul>",
 
-    "svg-buttons": "<button type=\"button\" id=\"clear-graph\" class=\"btn btn-default\">Clear All</button>",
+    "svg-buttons": "<button type=\"button\" id=\"clear-graph\" class=\"btn btn-default\">Limpar Tudo</button>",
 
     "svg-output": "",
 
