@@ -83,8 +83,8 @@ $(document).ready(function() {
     $(this)
       .next(".toggle-content")
       .slideToggle();
-    if ($(this).hasClass("target-hidden")) $(this).text("Click to Hide");
-    else $(this).text("Click to Show");
+    if ($(this).hasClass("target-hidden")) $(this).text("Ocultar");
+    else $(this).text("Mostrar Resposta");
     $(this).toggleClass("target-hidden");
   });
 

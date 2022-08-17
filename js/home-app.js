@@ -233,12 +233,12 @@ $(document).ready(function() {
   var moreList = $("#more-list .btn");
 
   moreList.click(function() {
-    if ($(this).text() == "Show All") {
+    if ($(this).text() == "Mostrar Tudo") {
       contentList.css("max-height", 10000);
-      $(this).text("Show Less");
+      $(this).text("Mostrar menos");
     } else {
       contentList.css("max-height", 270);
-      $(this).text("Show All");
+      $(this).text("Mostrar Tudo");
     }
   });
 
