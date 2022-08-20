@@ -84,7 +84,7 @@ $(document).ready(function() {
       .next(".toggle-content")
       .slideToggle();
     if ($(this).hasClass("target-hidden")) $(this).text("Ocultar");
-    else $(this).text("Mostrar Resposta");
+    else $(this).text("Mostrar");
     $(this).toggleClass("target-hidden");
   });
 

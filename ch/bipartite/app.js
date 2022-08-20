@@ -435,8 +435,8 @@ function showGraphLatex(isBipartite) {
     } else {
       setB = setB.slice(0, -1);
     }
-    l = "\\[\\text{Set } A = \\{" + setA + "\\} \\]";
-    l += "\\[\\text{Set } B = \\{" + setB + "\\} \\]";
+    l = "\\[\\text{Conjnunto } A = \\{" + setA + "\\} \\]";
+    l += "\\[\\text{Conjunto } B = \\{" + setB + "\\} \\]";
   } else if (isBipartite != false) {
     l = "\\[\\text{Draw bipartite graph.}\\]";
   } else l = "\\[\\text{Not Bipartite}\\]";

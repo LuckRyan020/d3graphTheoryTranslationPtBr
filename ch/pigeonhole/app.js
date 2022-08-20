@@ -357,7 +357,7 @@ function showGraphLatex() {
     return b - a;
   });
 
-  var l = "\\[\\text{Degree Sequence}=(";
+  var l = "\\[\\text{Sequência de graus}=(";
   degSeq.forEach(function(d, i) {
     if (i !== degSeq.length - 1) l += d + ",";
     else l += d;
