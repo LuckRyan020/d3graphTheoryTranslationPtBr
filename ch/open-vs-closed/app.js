@@ -472,11 +472,11 @@ function reverseWalk() {
 function showGraphLatex() {
   var l = "";
   if (walk.length == 0) {
-    l += "\\[\\text{Create a Walk}\\]";
+    l += "\\[\\text{Crie um Passeio}\\]";
   } else {
     var vertexRep = false;
 
-    l += "\\[\\text{Walk : }";
+    l += "\\[\\text{Passeio : }";
     var currentVertex = d3.select(".walk-start").datum();
     l += "v_{" + currentVertex.id + "}";
 
@@ -495,13 +495,13 @@ function showGraphLatex() {
     if (
       d3.select(".walk-start").attr("id") === d3.select(".walk-end").attr("id")
     ) {
-      l += "\\[\\text{This walk is closed.}\\]";
-      if (vertexRep) l += "\\[\\text{It is an example of Circuit.}\\]";
-      else l += "\\[\\text{It is both a Circuit and a Cycle.}\\]";
+      l += "\\[\\text{Este passeio é fechado.}\\]";
+      if (vertexRep) l += "\\[\\text{Este é um exemplo de um circuito.}\\]";
+      else l += "\\[\\text{Este é tanto um circuito como um ciclo.}\\]";
     } else {
-      l += "\\[\\text{This walk is open.}\\]";
-      if (vertexRep) l += "\\[\\text{It is an example of Trail.}\\]";
-      else l += "\\[\\text{It is both a Trail and a Path.}\\]";
+      l += "\\[\\text{Este passeio é aberto.}\\]";
+      if (vertexRep) l += "\\[\\text{Este é um exemplo de uma trilha.}\\]";
+      else l += "\\[\\text{Este é tanto uma trilha como um caminho.}\\]";
     }
   }
 
