@@ -276,9 +276,9 @@ var contentData = // jshint ignore:line
 
   "connectivity": {
 
-    "content-title": "Connectivity",
+    "content-title": "Conectividade",
 
-    "theory-content": "<p>A graph is said to be <b>connected<\/b> if a path can be drawn between any two of its vertices. Otherwise, it is called <b>disconnected<\/b>.<\/p><p>Each maximal connected subgraph is called a <b>connected component<\/b> or just <b>component<\/b> of the graph.<\/p><p>Since a component is maximal connected:<\/p><ul> <li>No path can be draw between an \"outside\" vertex and any of the component's vertices.<\/li><li>There is a path from any vertex of the component to any other vertex of the component.<\/li><\/ul> <div class=\"note\"> <span class=\"note-word\">Note: <\/span> An <b>isolated vertex is a component<\/b> in the sense that there is no vertex in the component which isn't connected to it; and their is no \"outside\" vertex connected to it. <\/div><p>The diagram shows a disconnected graph having two components - blue and orange.<\/p><p>Draw some graphs of your own and get comfortable with the terms. Each component will have a color of its own.<\/p>",
+    "theory-content": "<p> Um grafo é dito <b>conexo<\/b> se um caminho pode ser desenhado entre quaisquer dois dos seus vértices. Caso contrário, ele é chamado <b>desconexo<\/b>.<\/p><p>Cada subgrafo conexo máximal é chamado de <b>componente conexa<\/b> ou apenas <b>componente<\/b> do grafo.<\/p><p>Uma vez que uma componente é conexa maximal:<\/p><ul> <li>Nenhum caminho pode ser desenhado entre um vértice externo e qualquer vértice da componente.<\/li><li>Existe um caminho para todo vértice da componente a outro vértice da componente.<\/li><\/ul> <div class=\"note\"> <span class=\"note-word\">Nota: <\/span> Um <b>vértice isolado é uma componente<\/b> no sentindo que não existe um vértice na componente que não é conectado a ele; e não há vertices externos conectados a ele. <\/div><p>O diagrama mostra um grafo desconexo tendo 2 componentes - azul e laranja.<\/p><p>Desenhe alguns grafos do seu interesse e se familiarize com os termos. Cada componente téra sua própria cor.<\/p>",
 
     "interface-title": "Interface do Aplicativo:",
 
