@@ -9,7 +9,7 @@ var contentData = // jshint ignore:line
 
     "interface-title": "Interface do Aplicativo:",
 
-    "interface-content": "<ul> <li>Para adicionar um vértice dê um <b>clique esquerdo<\/b> no espaço em branco.<\/li><li>Para adicionar uma aresta <b>arraste<\/b> um vértice para o outro.<\/li><li>Para deletar um vértice\/aresta dê um <b>cliquê direito<\/b> nele.<\/li><li> para mover um vértice <b>segure Ctrl e arraste-o<\/b>.<\/li><li>Para ver o nome de um vértice\/aresta apenas <b>passe o mouse<\/b> sobre ele.<\/li><\/ul>",
+    "interface-content": "<ul> <li>Para adicionar um vértice dê um <b>clique esquerdo<\/b> no espaço em branco.<\/li><li>Para adicionar uma aresta <b>arraste<\/b> um vértice para o outro.<\/li><li>Para deletar um vértice\/aresta dê um <b>cliquê direito<\/b> nele.<\/li><li> Para mover um vértice segure <b>Ctrl<\/b> e arraste-o.<\/li><li>Para ver o nome de um vértice\/aresta apenas <b>passe o mouse<\/b> sobre ele.<\/li><\/ul>",
 
     "svg-buttons": "<button type=\"button\" id=\"clear-graph\" class=\"btn btn-default\">Limpar Tudo</button>",
 
@@ -30,7 +30,7 @@ var contentData = // jshint ignore:line
 
     "interface-title": "Interface do Aplicativo:",
 
-    "interface-content": "<ul> <li>Para adicionar um vértice dê um <b>clique esquerdo<\/b> no espaço em branco.<\/li><li>Para adicionar uma aresta <b>arraste<\/b> um vértice para o outro.<\/li><li>Para deletar um vértice\/aresta dê um <b>cliquê direito<\/b> nele.<\/li><li> para mover um vértice <b>segure Ctrl e arraste-o<\/b>.<\/li><li>Para ver o nome de um vértice\/aresta apenas <b>passe o mouse<\/b> sobre ele.<\/li><\/ul>",
+    "interface-content": "<ul> <li>Para adicionar um vértice dê um <b>clique esquerdo<\/b> no espaço em branco.<\/li><li>Para adicionar uma aresta <b>arraste<\/b> um vértice para o outro.<\/li><li>Para deletar um vértice\/aresta dê um <b>cliquê direito<\/b> nele.<\/li><li> Para mover um vértice segure <b>Ctrl<\/b> e arraste-o.<\/li><li>Para ver o nome de um vértice\/aresta apenas <b>passe o mouse<\/b> sobre ele.<\/li><\/ul>",
 
     "svg-buttons": "<button type=\"button\" id=\"clear-graph\" class=\"btn btn-default\">Limpar Tudo</button>",
 
@@ -51,7 +51,7 @@ var contentData = // jshint ignore:line
 
     "interface-title": "Interface do Aplicativo:",
 
-    "interface-content": "<ul> <li>Para adicionar um vértice dê um <b>clique esquerdo<\/b> no espaço em branco.<\/li><li>Para adicionar uma aresta <b>arraste<\/b> um vértice para o outro.<\/li><li>Para deletar um vértice\/aresta dê um <b>cliquê direito<\/b> nele.<\/li><li> para mover um vértice <b>segure Ctrl e arraste-o<\/b>.<\/li><li>Para ver o nome de um vértice\/aresta apenas <b>passe o mouse<\/b> sobre ele.<\/li> <\/ul>",
+    "interface-content": "<ul> <li>Para adicionar um vértice dê um <b>clique esquerdo<\/b> no espaço em branco.<\/li><li>Para adicionar uma aresta <b>arraste<\/b> um vértice para o outro.<\/li><li>Para deletar um vértice\/aresta dê um <b>cliquê direito<\/b> nele.<\/li><li> Para mover um vértice segure <b>Ctrl<\/b> e arraste-o.<\/li><li>Para ver o nome de um vértice\/aresta apenas <b>passe o mouse<\/b> sobre ele.<\/li> <\/ul>",
 
     "svg-buttons": "<button type=\"button\" id=\"clear-graph\" class=\"btn btn-default\">Limpar Tudo</button>",
 
@@ -72,7 +72,7 @@ var contentData = // jshint ignore:line
 
     "interface-title": "Interface do Aplicativo:",
 
-    "interface-content": "<ul> <li>Para adicionar um vértice dê um <b>clique esquerdo<\/b> no espaço em branco.<\/li><li>Para adicionar uma aresta <b>arraste<\/b> um vértice para o outro.<\/li><li>Para deletar um vértice\/aresta dê um <b>cliquê direito<\/b> nele.<\/li><li> para mover um vértice <b>segure Ctrl e arraste-o<\/b>.<\/li><li>Para ver o nome de um vértice\/aresta apenas <b>passe o mouse<\/b> sobre ele.<\/li> <\/ul>",
+    "interface-content": "<ul> <li>Para adicionar um vértice dê um <b>clique esquerdo<\/b> no espaço em branco.<\/li><li>Para adicionar uma aresta <b>arraste<\/b> um vértice para o outro.<\/li><li>Para deletar um vértice\/aresta dê um <b>cliquê direito<\/b> nele.<\/li><li> Para mover um vértice segure <b>Ctrl<\/b> e arraste-o.<\/li><li>Para ver o nome de um vértice\/aresta apenas <b>passe o mouse<\/b> sobre ele.<\/li> <\/ul>",
 
     "svg-buttons": "<button type=\"button\" id=\"clear-graph\" class=\"btn btn-default\">Limpar Tudo</button>",
 
@@ -93,7 +93,7 @@ var contentData = // jshint ignore:line
 
     "interface-title": "Interface do Aplicativo:",
 
-    "interface-content": "<ul> <li>Para adicionar um vértice dê um <b>clique esquerdo<\/b> no espaço em branco.<\/li><li>Para adicionar uma aresta <b>arraste<\/b> um vértice para o outro.<\/li><li>Para deletar um vértice\/aresta dê um <b>cliquê direito<\/b> nele.<\/li><li> para mover um vértice <b>segure Ctrl e arraste-o<\/b>.<\/li><li>Para ver o nome de um vértice\/aresta apenas <b>passe o mouse<\/b> sobre ele.<\/li> <\/ul>",
+    "interface-content": "<ul> <li>Para adicionar um vértice dê um <b>clique esquerdo<\/b> no espaço em branco.<\/li><li>Para adicionar uma aresta <b>arraste<\/b> um vértice para o outro.<\/li><li>Para deletar um vértice\/aresta dê um <b>cliquê direito<\/b> nele.<\/li><li> Para mover um vértice segure <b>Ctrl<\/b> e arraste-o.<\/li><li>Para ver o nome de um vértice\/aresta apenas <b>passe o mouse<\/b> sobre ele.<\/li> <\/ul>",
 
     "svg-buttons": "<button type=\"button\" id=\"clear-graph\" class=\"btn btn-default\">Limpar Tudo</button>",
 
@@ -116,7 +116,7 @@ var contentData = // jshint ignore:line
 
     "interface-content": "<ul> <li>To add an edge <b>drag<\/b> from one vertex to another.<\/li><li>To delete an edge <b>right click<\/b> on it.<\/li><li>To move a vertex <b>hold Ctrl and drag<\/b> it.<\/li><li>To see name of a vertex\/edge just <b>hover your cursor<\/b> on it.<\/li><\/ul>",
 
-    "svg-buttons": "<button type=\"button\" id=\"prev-prob\" class=\"btn btn-default\">Prev<\/button> <button type=\"button\" id=\"clear-edges\" class=\"btn btn-default\">Reset Edges<\/button> <button type=\"button\" id=\"next-prob\" class=\"btn btn-default\">Next<\/button>",
+    "svg-buttons": "<button type=\"button\" id=\"prev-prob\" class=\"btn btn-default\">Prev<\/button> <button type=\"button\" id=\"clear-edges\" class=\"btn btn-default\">Reset Edges<\/button> <button type=\"button\" id=\"next-prob\" class=\"btn btn-default\">Próximo<\/button>",
 
     "svg-output": "<div class=\"text-center\"> <ul class=\"pagination\" id=\"prob-list\"> <li><a>1<\/a><\/li><li><a>2<\/a><\/li><li><a>3<\/a><\/li><li><a>4<\/a><\/li><li><a>5<\/a><\/li><li><a>6<\/a><\/li><li><a>7<\/a><\/li><li><a>8<\/a><\/li><li><a>9<\/a><\/li><li><a>10<\/a><\/li><li><a>11<\/a><\/li><li><a>12<\/a><\/li><\/ul> <\/div>",
 
@@ -135,7 +135,7 @@ var contentData = // jshint ignore:line
 
     "interface-title": "Interface do Aplicativo:",
 
-    "interface-content": "<ul> <li>Para adicionar um vértice dê um <b>clique esquerdo<\/b> no espaço em branco.<\/li><li>Para adicionar uma aresta <b>arraste<\/b> um vértice para o outro.<\/li><li>Para deletar um vértice\/aresta dê um <b>cliquê direito<\/b> nele.<\/li><li> para mover um vértice <b>segure Ctrl e arraste-o<\/b>.<\/li><li>Para ver o nome de um vértice\/aresta apenas <b>passe o mouse<\/b> sobre ele.<\/li> <\/ul>",
+    "interface-content": "<ul> <li>Para adicionar um vértice dê um <b>clique esquerdo<\/b> no espaço em branco.<\/li><li>Para adicionar uma aresta <b>arraste<\/b> um vértice para o outro.<\/li><li>Para deletar um vértice\/aresta dê um <b>cliquê direito<\/b> nele.<\/li><li> Para mover um vértice segure <b>Ctrl<\/b> e arraste-o.<\/li><li>Para ver o nome de um vértice\/aresta apenas <b>passe o mouse<\/b> sobre ele.<\/li> <\/ul>",
 
     "svg-buttons": "<button type=\"button\" id=\"clear-graph\" class=\"btn btn-default\">Limpar Tudo</button>",
 
@@ -156,7 +156,7 @@ var contentData = // jshint ignore:line
 
     "interface-title": "Interface do Aplicativo:",
 
-    "interface-content": "<ul> <li>Para adicionar um vértice dê um <b>clique esquerdo<\/b> no espaço em branco.<\/li><li>Para adicionar uma aresta <b>arraste<\/b> um vértice para o outro.<\/li><li>Para deletar um vértice\/aresta dê um <b>cliquê direito<\/b> nele.<\/li><li> para mover um vértice <b>segure Ctrl e arraste-o<\/b>.<\/li><li>Para ver o nome de um vértice\/aresta apenas <b>passe o mouse<\/b> sobre ele.<\/li> <\/ul>",
+    "interface-content": "<ul> <li>Para adicionar um vértice dê um <b>clique esquerdo<\/b> no espaço em branco.<\/li><li>Para adicionar uma aresta <b>arraste<\/b> um vértice para o outro.<\/li><li>Para deletar um vértice\/aresta dê um <b>cliquê direito<\/b> nele.<\/li><li> Para mover um vértice segure <b>Ctrl<\/b> e arraste-o.<\/li><li>Para ver o nome de um vértice\/aresta apenas <b>passe o mouse<\/b> sobre ele.<\/li> <\/ul>",
 
     "svg-buttons": "<button type=\"button\" id=\"clear-graph\" class=\"btn btn-default\">Limpar Tudo</button>",
 
@@ -177,7 +177,7 @@ var contentData = // jshint ignore:line
 
     "interface-title": "Interface do Aplicativo:",
 
-    "interface-content": "<ul> <li>Para adicionar um vértice dê um <b>clique esquerdo<\/b> no espaço em branco.<\/li><li>Para adicionar uma aresta <b>arraste<\/b> um vértice para o outro.<\/li><li>Para deletar um vértice\/aresta dê um <b>cliquê direito<\/b> nele.<\/li><li> para mover um vértice <b>segure Ctrl e arraste-o<\/b>.<\/li><li>Para ver o nome de um vértice\/aresta apenas <b>passe o mouse<\/b> sobre ele.<\/li> <\/ul>",
+    "interface-content": "<ul> <li>Para adicionar um vértice dê um <b>clique esquerdo<\/b> no espaço em branco.<\/li><li>Para adicionar uma aresta <b>arraste<\/b> um vértice para o outro.<\/li><li>Para deletar um vértice\/aresta dê um <b>cliquê direito<\/b> nele.<\/li><li> Para mover um vértice segure <b>Ctrl<\/b> e arraste-o.<\/li><li>Para ver o nome de um vértice\/aresta apenas <b>passe o mouse<\/b> sobre ele.<\/li> <\/ul>",
 
     "svg-buttons": "<button type=\"button\" id=\"clear-graph\" class=\"btn btn-default\">Limpar Tudo</button>",
 
@@ -198,7 +198,7 @@ var contentData = // jshint ignore:line
 
     "interface-title": "Interface do Aplicativo:",
 
-    "interface-content": "<ul> <li>Para adicionar um vértice dê um <b>clique esquerdo<\/b> no espaço em branco.<\/li><li>Para adicionar uma aresta <b>arraste<\/b> um vértice para o outro.<\/li><li>Para deletar um vértice\/aresta dê um <b>cliquê direito<\/b> nele.<\/li><li> para mover um vértice <b>segure Ctrl e arraste-o<\/b>.<\/li><li>Para ver o nome de um vértice\/aresta apenas <b>passe o mouse<\/b> sobre ele.<\/li> <\/ul>",
+    "interface-content": "<ul> <li>Para adicionar um vértice dê um <b>clique esquerdo<\/b> no espaço em branco.<\/li><li>Para adicionar uma aresta <b>arraste<\/b> um vértice para o outro.<\/li><li>Para deletar um vértice\/aresta dê um <b>cliquê direito<\/b> nele.<\/li><li> Para mover um vértice segure <b>Ctrl<\/b> e arraste-o.<\/li><li>Para ver o nome de um vértice\/aresta apenas <b>passe o mouse<\/b> sobre ele.<\/li> <\/ul>",
 
     "svg-buttons": "<button type=\"button\" id=\"clear-graph\" class=\"btn btn-default\">Limpar Tudo</button>",
 
@@ -219,7 +219,7 @@ var contentData = // jshint ignore:line
 
     "interface-title": "Interface do Aplicativo:",
 
-    "interface-content": "<ul> <li>Para adicionar um vértice dê um <b>clique esquerdo<\/b> no espaço em branco.<\/li><li>Para adicionar uma aresta <b>arraste<\/b> um vértice para o outro.<\/li><li>Para deletar um vértice\/aresta dê um <b>cliquê direito<\/b> nele.<\/li><li> para mover um vértice <b>segure Ctrl e arraste-o<\/b>.<\/li><li>Para ver o nome de um vértice\/aresta apenas <b>passe o mouse<\/b> sobre ele.<\/li> <\/ul>",
+    "interface-content": "<ul> <li>Para adicionar um vértice dê um <b>clique esquerdo<\/b> no espaço em branco.<\/li><li>Para adicionar uma aresta <b>arraste<\/b> um vértice para o outro.<\/li><li>Para deletar um vértice\/aresta dê um <b>cliquê direito<\/b> nele.<\/li><li> Para mover um vértice segure <b>Ctrl<\/b> e arraste-o.<\/li><li>Para ver o nome de um vértice\/aresta apenas <b>passe o mouse<\/b> sobre ele.<\/li> <\/ul>",
 
     "svg-buttons": "<button type=\"button\" id=\"clear-graph\" class=\"btn btn-default\">Limpar Tudo</button>",
 
@@ -240,7 +240,7 @@ var contentData = // jshint ignore:line
 
     "interface-title": "Interface do Aplicativo:",
 
-    "interface-content": "<ul> <li>Para adicionar um vértice dê um <b>clique esquerdo<\/b> no espaço em branco.<\/li><li>Para adicionar uma aresta <b>arraste<\/b> um vértice para o outro.<\/li><li>Para deletar um vértice\/aresta dê um <b>cliquê direito<\/b> nele.<\/li><li> para mover um vértice <b>segure Ctrl e arraste-o<\/b>.<\/li><li>Para ver o nome de um vértice\/aresta apenas <b>passe o mouse<\/b> sobre ele.<\/li> <li>Para começar um passeio, clique em uma aresta qualquer.<\/li><li>O <span style=\"background-color: #ff0; padding: 2px;\">primeiro<\/span> e <span style=\"background-color: #8f3; padding: 2px;\">último<\/span> vértices do passeio tem bordas coloridas.<\/li><li>Para adicionar uma próxima aresta ao passeio, clique em uma aresta incidente ao <span style=\"background-color: #8f3; padding: 2px;\">último<\/span> vértice do passeio.<\/li><li>A <span style=\"background-color: #8f3; padding: 2px;\">última<\/span> aresta no passeio pode ser removida clicando novamente nela.<\/li><li>Você não poderá deletar vértices\/arestas que são partes do passeio.<\/li> <\/ul>",
+    "interface-content": "<ul> <li>Para adicionar um vértice dê um <b>clique esquerdo<\/b> no espaço em branco.<\/li><li>Para adicionar uma aresta <b>arraste<\/b> um vértice para o outro.<\/li><li>Para deletar um vértice\/aresta dê um <b>cliquê direito<\/b> nele.<\/li><li> Para mover um vértice segure <b>Ctrl<\/b> e arraste-o.<\/li><li>Para ver o nome de um vértice\/aresta apenas <b>passe o mouse<\/b> sobre ele.<\/li> <li>Para começar um passeio, clique em uma aresta qualquer.<\/li><li>O <span style=\"background-color: #ff0; padding: 2px;\">primeiro<\/span> e <span style=\"background-color: #8f3; padding: 2px;\">último<\/span> vértices do passeio tem bordas coloridas.<\/li><li>Para adicionar uma próxima aresta ao passeio, clique em uma aresta incidente ao <span style=\"background-color: #8f3; padding: 2px;\">último<\/span> vértice do passeio.<\/li><li>A <span style=\"background-color: #8f3; padding: 2px;\">última<\/span> aresta no passeio pode ser removida clicando novamente nela.<\/li><li>Você não poderá deletar vértices\/arestas que são partes do passeio.<\/li> <\/ul>",
 
     "svg-buttons": "<button type=\"button\" id=\"clear-graph\" class=\"btn btn-default\">Limpar Tudo<\/button> <button type=\"button\" id=\"clear-walk\" class=\"btn btn-default\">Limpar Passeio<\/button> <button type=\"button\" id=\"reverse-walk\" class=\"btn btn-default\">Passeio Inverso<\/button>",
 
@@ -261,7 +261,7 @@ var contentData = // jshint ignore:line
 
     "interface-title": "Interface do Aplicativo:",
 
-    "interface-content": "<ul><li>Para adicionar um vértice dê um <b>clique esquerdo<\/b> no espaço em branco.<\/li><li>Para adicionar uma aresta <b>arraste<\/b> um vértice para o outro.<\/li><li>Para deletar um vértice\/aresta dê um <b>cliquê direito<\/b> nele.<\/li><li> para mover um vértice <b>segure Ctrl e arraste-o<\/b>.<\/li><li>Para ver o nome de um vértice\/aresta apenas <b>passe o mouse<\/b> sobre ele.<\/li> <li>Para começar um passeio, clique em uma aresta qualquer.<\/li><li>O <span style=\"background-color: #ff0; padding: 2px;\">primeiro<\/span> e <span style=\"background-color: #8f3; padding: 2px;\">último<\/span> vértices do passeio tem bordas coloridas.<\/li><li>Para adicionar uma próxima aresta ao passeio, clique em uma aresta incidente ao <span style=\"background-color: #8f3; padding: 2px;\">último<\/span> vértice do passeio.<\/li><li>A <span style=\"background-color: #8f3; padding: 2px;\">última<\/span> aresta no passeio pode ser removida clicando novamente nela.<\/li><li>Você não poderá deletar vértices\/arestas que são partes do passeio.<\/li> <\/ul>",
+    "interface-content": "<ul><li>Para adicionar um vértice dê um <b>clique esquerdo<\/b> no espaço em branco.<\/li><li>Para adicionar uma aresta <b>arraste<\/b> um vértice para o outro.<\/li><li>Para deletar um vértice\/aresta dê um <b>cliquê direito<\/b> nele.<\/li><li> Para mover um vértice segure <b>Ctrl<\/b> e arraste-o.<\/li><li>Para ver o nome de um vértice\/aresta apenas <b>passe o mouse<\/b> sobre ele.<\/li> <li>Para começar um passeio, clique em uma aresta qualquer.<\/li><li>O <span style=\"background-color: #ff0; padding: 2px;\">primeiro<\/span> e <span style=\"background-color: #8f3; padding: 2px;\">último<\/span> vértices do passeio tem bordas coloridas.<\/li><li>Para adicionar uma próxima aresta ao passeio, clique em uma aresta incidente ao <span style=\"background-color: #8f3; padding: 2px;\">último<\/span> vértice do passeio.<\/li><li>A <span style=\"background-color: #8f3; padding: 2px;\">última<\/span> aresta no passeio pode ser removida clicando novamente nela.<\/li><li>Você não poderá deletar vértices\/arestas que são partes do passeio.<\/li> <\/ul>",
 
     "svg-buttons": "<button type=\"button\" id=\"clear-graph\" class=\"btn btn-default\">Limpar Tudo<\/button> <button type=\"button\" id=\"clear-walk\" class=\"btn btn-default\">Limpar Passeio<\/button> <button type=\"button\" id=\"reverse-walk\" class=\"btn btn-default\">Passeio Inverso<\/button>",
 
@@ -282,7 +282,7 @@ var contentData = // jshint ignore:line
 
     "interface-title": "Interface do Aplicativo:",
 
-    "interface-content": "<ul><li>Para adicionar um vértice dê um <b>clique esquerdo<\/b> no espaço em branco.<\/li><li>Para adicionar uma aresta <b>arraste<\/b> um vértice para o outro.<\/li><li>Para deletar um vértice\/aresta dê um <b>cliquê direito<\/b> nele.<\/li><li> para mover um vértice <b>segure Ctrl e arraste-o<\/b>.<\/li><li>Para ver o nome de um vértice\/aresta apenas <b>passe o mouse<\/b> sobre ele.<\/li> <li>Para começar um passeio, clique em uma aresta qualquer.<\/li><li>O <span style=\"background-color: #ff0; padding: 2px;\">primeiro<\/span> e <span style=\"background-color: #8f3; padding: 2px;\">último<\/span> vértices do passeio tem bordas coloridas.<\/li><li>Para adicionar uma próxima aresta ao passeio, clique em uma aresta incidente ao <span style=\"background-color: #8f3; padding: 2px;\">último<\/span> vértice do passeio.<\/li><li>A <span style=\"background-color: #8f3; padding: 2px;\">última<\/span> aresta no passeio pode ser removida clicando novamente nela.<\/li><li>Você não poderá deletar vértices\/arestas que são partes do passeio.<\/li> <\/ul>",
+    "interface-content": "<ul><li>Para adicionar um vértice dê um <b>clique esquerdo<\/b> no espaço em branco.<\/li><li>Para adicionar uma aresta <b>arraste<\/b> um vértice para o outro.<\/li><li>Para deletar um vértice\/aresta dê um <b>cliquê direito<\/b> nele.<\/li><li> Para mover um vértice segure <b>Ctrl<\/b> e arraste-o.<\/li><li>Para ver o nome de um vértice\/aresta apenas <b>passe o mouse<\/b> sobre ele.<\/li> <li>Para começar um passeio, clique em uma aresta qualquer.<\/li><li>O <span style=\"background-color: #ff0; padding: 2px;\">primeiro<\/span> e <span style=\"background-color: #8f3; padding: 2px;\">último<\/span> vértices do passeio tem bordas coloridas.<\/li><li>Para adicionar uma próxima aresta ao passeio, clique em uma aresta incidente ao <span style=\"background-color: #8f3; padding: 2px;\">último<\/span> vértice do passeio.<\/li><li>A <span style=\"background-color: #8f3; padding: 2px;\">última<\/span> aresta no passeio pode ser removida clicando novamente nela.<\/li><li>Você não poderá deletar vértices\/arestas que são partes do passeio.<\/li> <\/ul>",
 
     "svg-buttons": "<button type=\"button\" id=\"clear-graph\" class=\"btn btn-default\">Limpar Tudo<\/button> <button type=\"button\" id=\"clear-walk\" class=\"btn btn-default\">Limpar Passeio<\/button> <button type=\"button\" id=\"reverse-walk\" class=\"btn btn-default\">Passeio Inverso<\/button>",
 
@@ -297,15 +297,15 @@ var contentData = // jshint ignore:line
 
   "eulerian-circuit": {
 
-    "content-title": "Eulerian Circuit",
+    "content-title": "Circuto Euleriano",
 
-    "theory-content": "<p>A circuit which visits each edge of the graph exactly once is called as <b>Eulerian circuit<\/b>. In other words, an <b>Eulerian circuit<\/b> is a closed walk which visits each edge of the graph exactly once.<\/p><p>A graph possessing an Eulerian circuit is known as <b>Eulerian graph<\/b>.<\/p><div class=\"result\"> <span class=\"result-word\">Theorem: <\/span> A connected graph is Eulerian if and only if the degree of every vertex is an even number. <\/div><p>Take note of the equivalency (<i>if and only if<\/i>) in above theorem. This means that:<\/p><ol> <li>If a connected graph has all its vertices of even degree, then it has an Eulerian circuit.<\/li><li>If a connected graph has an Eulerian circuit, then all its vertices have even degree.<\/li><\/ol> <div class=\"note\"> <span class=\"note-word\">Note: <\/span> Since a circuit is cyclic in nature, any vertex can be taken as the starting point for construction of an Eulerian circuit in an Eulerian graph. <\/div><p>Your task is to draw an Eulerian circuit for each of the given graphs.<\/p>",
+    "theory-content": "<p>Um circuito que visita cada aresta do grafo exatamente uma única vez é chamado <b>circuito Euleriano<\/b>. Em outras palavras, um <b>circuito Euleriano<\/b> é um passeio fechado onde cada aresta do grafo aparece exatamente uma vez.<\/p><p>Um grafo que possui um circuito Euleriano é conhecido como <b>grafo Euleriano<\/b>.<\/p><div class=\"result\"> <span class=\"result-word\">Teorema: <\/span> Um grafo conexo é Euleriano se e somente se o grau de todo vértice é par. <\/div><p>Observe a equivalência (<i>se e somente se<\/i>) no teorema acima. Isso significa que:<\/p><ol> <li>Se um grafo conexo tem todos os seus vértices com grau par, então ele tem um circuito Euleriano.<\/li><li>Se um grafo conexo tem é Euleriano, então todos os seus vértices tem grau par.<\/li><\/ol> <div class=\"note\"> <span class=\"note-word\">Nota: <\/span> Como um circuito é ciclico por natureza, qualquer vértice pode ser escolhido como o porto de partida para a construção de um circuito Euleriano em um grafo Euleriano <\/div><p>Sua tarefa é desenhar um circuito Euleriano para cada grafo dado.<\/p>",
 
     "interface-title": "Interface do Aplicativo:",
 
-    "interface-content": "<ul> <li>To move a vertex <b>hold Ctrl and drag<\/b> it.<\/li><li>To see name of a vertex\/edge just <b>hover your cursor<\/b> on it.<\/li><li>Para começar um passeio, clique em uma aresta qualquer.<\/li><li>O <span style=\"background-color: #ff0; padding: 2px;\">primeiro<\/span> e <span style=\"background-color: #8f3; padding: 2px;\">último<\/span> vértices do passeio tem bordas coloridas.<\/li><li>Para adicionar uma próxima aresta ao passeio, clique em uma aresta incidente ao <span style=\"background-color: #8f3; padding: 2px;\">último<\/span> vértice do passeio.<\/li><li>A <span style=\"background-color: #8f3; padding: 2px;\">última<\/span> aresta no passeio pode ser removida clicando novamente nela.<\/li><li>Você não poderá deletar vértices\/arestas que são partes do passeio.<\/li> <\/ul>",
+    "interface-content": "<ul> <li>Para mover um vértice segure <b>Ctrl<\/b> e arraste-o.<\/li><li>Para ver o nome de um vértice\/aresta apenas <b>passe o mouse<\/b> sobre ele.<\/li><li>Para começar um passeio, clique em uma aresta qualquer.<\/li><li>O <span style=\"background-color: #ff0; padding: 2px;\">primeiro<\/span> e <span style=\"background-color: #8f3; padding: 2px;\">último<\/span> vértices do passeio tem bordas coloridas.<\/li><li>Para adicionar uma próxima aresta ao passeio, clique em uma aresta incidente ao <span style=\"background-color: #8f3; padding: 2px;\">último<\/span> vértice do passeio.<\/li><li>A <span style=\"background-color: #8f3; padding: 2px;\">última<\/span> aresta no passeio pode ser removida clicando novamente nela.<\/li><li>Você não poderá deletar vértices\/arestas que são partes do passeio.<\/li> <\/ul>",
 
-    "svg-buttons": "<button type=\"button\" id=\"prev-prob\" class=\"btn btn-default\">Prev<\/button> <button type=\"button\" id=\"clear-walk\" class=\"btn btn-default\">Limpar Passeio<\/button> <button type=\"button\" id=\"reverse-walk\" class=\"btn btn-default\">Passeio Inverso<\/button> <button type=\"button\" id=\"next-prob\" class=\"btn btn-default\">Next<\/button>",
+    "svg-buttons": "<button type=\"button\" id=\"prev-prob\" class=\"btn btn-default\">Prev<\/button> <button type=\"button\" id=\"clear-walk\" class=\"btn btn-default\">Limpar Passeio<\/button> <button type=\"button\" id=\"reverse-walk\" class=\"btn btn-default\">Passeio Inverso<\/button> <button type=\"button\" id=\"next-prob\" class=\"btn btn-default\">Próximo<\/button>",
 
     "svg-output": "<div class=\"text-center\"> <ul class=\"pagination\" id=\"prob-list\"> <li><a class=\"prob-current\">1<\/a><\/li><li><a>2<\/a><\/li><li><a>3<\/a><\/li><li><a>4<\/a><\/li><li><a>5<\/a><\/li><\/ul> <\/div>",
 
@@ -318,15 +318,15 @@ var contentData = // jshint ignore:line
 
   "eulerian-trail": {
 
-    "content-title": "Eulerian Trail",
+    "content-title": "Trilha Euleriana",
 
-    "theory-content": "<p>An open walk which visits each edge of the graph exactly once is called an <b>Eulerian Walk<\/b>. Since it is open and there is no repetition of edges, it is also called <b>Eulerian Trail<\/b>.<\/p><p>There is a connection between Eulerian Trails and Eulerian Circuits.<\/p><p>We know that in an Eulerian graph, it is possible to draw an Eulerian circuit starting from any vertex. What if we remove the last edge in this circuit? Can we still walk all the edges exactly once?<\/p><p>On removing the last edge, the two vertices on that edge will now have odd degrees. Rest of the vertices will still have even degree. Our circuit is no longer a circuit because the terminal vertices are different. What we have now is a trail that covers all the vertices exactly once.<\/p><div class=\"result\"> <p><span class=\"result-word\">Theorem: <\/span> A connected graph contains an Eulerian trail if and only if exactly two vertices have odd degree and rest have even degree.<\/p><p>The two vertices with odd degree must be the terminal vertices in the trail.<\/p><\/div><p>Note the equivalency (<i>if and only if<\/i>) in the above result.<\/p><p>Draw Eulerian trails for the given connected graphs.<\/p>",
+    "theory-content": "<p>Um passeio aberto que visita cada aresta do grafo exatamente uma vez é chamado <b>passeio Euleriano<\/b>. Como ele é aberto e não há repetição de arestas, também o chamamos de <b>trilha Euleriana<\/b>.<\/p><p>Existe uma conexão entre trilhas Eulerianas e circuitos Eulerianos.<\/p><p> Nós sabemos que em um grafo Euleriano, é possível desenhar um circuito Euleriano começando em qualquer vértice. O que acontece se removermos a última aresta nesse circuito? Ainda teremos cada aresta exatamente uma vez?<\/p><p>Ao remover a última aresta, os dois vértices da extremidade dessa aresta terão agora grau ímpar. O resto dos vértices irão continuar tendo grau par. Nosso circuito não é mais um circuito pois os seus extremos são diferentes. O que temos agora é uma trilha que cotém todos os vértices exatamente uma vez.<\/p><div class=\"result\"> <p><span class=\"result-word\">Teorema: <\/span> Um grafo conexo possui uma trilha Euleriana se e somente se exatamente dois vértices tem grau ímpar e os demais tem grau par.<\/p><p>Os dois vértices com grau ímpar devem ser os vértices das extremidades da trilha.<\/p><\/div><p>Observe a equivalência (<i>se e somente se<\/i>) no resultado acima.<\/p><p>Desenhe trilhas Eulerianas para os grafos conexos dados.<\/p>",
 
     "interface-title": "Interface do Aplicativo:",
 
-    "interface-content": "<ul> <li>To move a vertex <b>hold Ctrl and drag<\/b> it.<\/li><li>To see name of a vertex\/edge just <b>hover your cursor<\/b> on it.<\/li><li>Para começar um passeio, clique em uma aresta qualquer.<\/li><li>O <span style=\"background-color: #ff0; padding: 2px;\">primeiro<\/span> e <span style=\"background-color: #8f3; padding: 2px;\">último<\/span> vértices do passeio tem bordas coloridas.<\/li><li>Para adicionar uma próxima aresta ao passeio, clique em uma aresta incidente ao <span style=\"background-color: #8f3; padding: 2px;\">último<\/span> vértice do passeio.<\/li><li>A <span style=\"background-color: #8f3; padding: 2px;\">última<\/span> aresta no passeio pode ser removida clicando novamente nela.<\/li><li>Você não poderá deletar vértices\/arestas que são partes do passeio.<\/li> <\/ul>",
+    "interface-content": "<ul> <li>Para mover um vértice segure <b>Ctrl<\/b> e arraste-o.<\/li><li>Para ver o nome de um vértice\/aresta apenas <b>passe o mouse<\/b> sobre ele.<\/li><li>Para começar um passeio, clique em uma aresta qualquer.<\/li><li>O <span style=\"background-color: #ff0; padding: 2px;\">primeiro<\/span> e <span style=\"background-color: #8f3; padding: 2px;\">último<\/span> vértices do passeio tem bordas coloridas.<\/li><li>Para adicionar uma próxima aresta ao passeio, clique em uma aresta incidente ao <span style=\"background-color: #8f3; padding: 2px;\">último<\/span> vértice do passeio.<\/li><li>A <span style=\"background-color: #8f3; padding: 2px;\">última<\/span> aresta no passeio pode ser removida clicando novamente nela.<\/li><li>Você não poderá deletar vértices\/arestas que são partes do passeio.<\/li> <\/ul>",
 
-    "svg-buttons": "<button type=\"button\" id=\"prev-prob\" class=\"btn btn-default\">Prev<\/button> <button type=\"button\" id=\"clear-walk\" class=\"btn btn-default\">Limpar Passeio<\/button> <button type=\"button\" id=\"reverse-walk\" class=\"btn btn-default\">Passeio Inverso<\/button> <button type=\"button\" id=\"next-prob\" class=\"btn btn-default\">Next<\/button>",
+    "svg-buttons": "<button type=\"button\" id=\"prev-prob\" class=\"btn btn-default\">Prev<\/button> <button type=\"button\" id=\"clear-walk\" class=\"btn btn-default\">Limpar Passeio<\/button> <button type=\"button\" id=\"reverse-walk\" class=\"btn btn-default\">Passeio Inverso<\/button> <button type=\"button\" id=\"next-prob\" class=\"btn btn-default\">Próximo<\/button>",
 
     "svg-output": "<div class=\"text-center\"> <ul class=\"pagination\" id=\"prob-list\"> <li><a class=\"prob-current\">1<\/a><\/li><li><a>2<\/a><\/li><li><a>3<\/a><\/li><li><a>4<\/a><\/li><li><a>5<\/a><\/li><\/ul> <\/div>",
 
@@ -368,7 +368,7 @@ var contentData = // jshint ignore:line
 
     "interface-content": "<ul><li>To change <span style=\"color:#fff; background-color:#d62728; padding:0 2px;\">color<\/span> of a vertex <b>left click<\/b> on it.<\/li><li>To move a vertex <b>hold Ctrl and drag<\/b> it.<\/li><li>To see name of a vertex\/edge just <b>hover your cursor<\/b> on it.<\/li><\/ul>",
 
-    "svg-buttons": "<button type=\"button\" id=\"prev-prob\" class=\"btn btn-default\">Prev<\/button> <button type=\"button\" id=\"next-prob\" class=\"btn btn-default\">Next<\/button>",
+    "svg-buttons": "<button type=\"button\" id=\"prev-prob\" class=\"btn btn-default\">Prev<\/button> <button type=\"button\" id=\"next-prob\" class=\"btn btn-default\">Próximo<\/button>",
 
     "svg-output": "<div id=\"output-text\"><\/div><div class=\"text-center\"> <ul class=\"pagination\" id=\"prob-list\"> <li><a class=\"prob-current\">1<\/a><\/li><li><a>2<\/a><\/li><li><a>3<\/a><\/li><li><a>4<\/a><\/li><li><a>5<\/a><\/li><li><a>6<\/a><\/li><li><a>7<\/a><\/li><li><a>8<\/a><\/li><li><a>9<\/a><\/li><li><a>10<\/a><\/li><\/ul> <\/div>",
 
@@ -389,7 +389,7 @@ var contentData = // jshint ignore:line
 
     "interface-content": "<ul><li>To move a vertex <b>hold Ctrl and drag<\/b> it.<\/li><li>To see name of a vertex\/edge just <b>hover your cursor<\/b> on it.<\/li><\/ul>",
 
-    "svg-buttons": "<button type=\"button\" id=\"prev-prob\" class=\"btn btn-default\">Prev<\/button> <button type=\"button\" id=\"next-prob\" class=\"btn btn-default\">Next<\/button>",
+    "svg-buttons": "<button type=\"button\" id=\"prev-prob\" class=\"btn btn-default\">Prev<\/button> <button type=\"button\" id=\"next-prob\" class=\"btn btn-default\">Próximo<\/button>",
 
     "svg-output": "<div id=\"output-text\"><\/div><div class=\"text-center\"> <ul class=\"pagination\" id=\"prob-list\"> <li><a class=\"prob-current\">1<\/a><\/li><li><a>2<\/a><\/li><li><a>3<\/a><\/li><li><a>4<\/a><\/li><li><a>5<\/a><\/li><li><a>6<\/a><\/li><li><a>7<\/a><\/li><li><a>8<\/a><\/li><\/ul> <\/div>",
 
@@ -452,7 +452,7 @@ var contentData = // jshint ignore:line
 
     "interface-content": "<ul><li>To delete an edge <b>right click<\/b> on it.<\/li><\/ul>",
 
-    "svg-buttons": "<button type=\"button\" id=\"prev-prob\" class=\"btn btn-default\">Prev<\/button> <button type=\"button\" id=\"next-prob\" class=\"btn btn-default\">Next<\/button>",
+    "svg-buttons": "<button type=\"button\" id=\"prev-prob\" class=\"btn btn-default\">Prev<\/button> <button type=\"button\" id=\"next-prob\" class=\"btn btn-default\">Próximo<\/button>",
 
     "svg-output": "<div id=\"output-text\"><\/div><div class=\"text-center\"><ul class=\"pagination\" id=\"prob-list\"><li><a>1<\/a><\/li><li><a>2<\/a><\/li><li><a>3<\/a><\/li><li><a>4<\/a><\/li><\/ul><\/div>",
 
